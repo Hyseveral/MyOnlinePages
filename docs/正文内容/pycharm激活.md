@@ -5,5 +5,5 @@
 
 - [参考文档链接](https://www.hxun.net/archives/114.html)
 
-- [补丁文件链接](链接：https://pan.baidu.com/s/1HB7Wzdsm7lXvkZyDt-jEcw)
+- [补丁文件链接](https://pan.baidu.com/s/1HB7Wzdsm7lXvkZyDt-jEcw)
 -  提取码：xdkz
