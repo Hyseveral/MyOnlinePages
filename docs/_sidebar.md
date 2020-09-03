@@ -22,4 +22,8 @@
 
 # 行为识别相关
   - [基于关键帧的轻量化行为识别方法研究](行为识别/基于关键帧的轻量化行为识别方法研究.md)
-
+  - [GFNET](行为识别/GFNET.md)
+  - [PAN](行为识别/PAN.md)
+  - [Gate-Shift](行为识别/Gate-Shift.md)
+  - [Multigrid](行为识别/Multigrid.md)
+  - [MS-G3D](行为识别/MS-G3D.md)
