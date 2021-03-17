@@ -22,3 +22,8 @@
 - 在http协议的基础上加入了ssl协议+证书，用来加密传输数据
 - ssl层协议：（全称：Secure Sockets Layer 安全套接层）是一种安全协议，SSL在传输层对网络连接进行加密
 - 使用443接口
+
+
+
+## HTTPS 原理详解
+- [参考](https://zhuanlan.zhihu.com/p/27395037)

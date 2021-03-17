@@ -73,3 +73,7 @@ synchronized同步代码块的时候通过加入字节码monitorenter和monitore
     2. 当其他线程释放monitor后，有可能刚好有线程来获取monitor的所有权，那么系统会将monitor的所有权给这个线程，而不会去唤醒同步队列的第一个节点去获取，所以synchronized是非公平锁(即该线程先尝试插队，不成功就排队)。
     
     3. 如果线程获取monitor成功则进入到monitor中，并且将其进入数+1。
+
+
+
+在java1.6之后Synchronized进行了一些优化，引入了偏向锁、轻量级锁、重量级锁。
