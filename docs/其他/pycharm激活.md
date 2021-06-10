@@ -1,9 +1,0 @@
-# 其他一些内容
-
-
-### pycharm 永久激活
-
-- [参考文档链接](https://www.hxun.net/archives/114.html)
-
-- [补丁文件链接](https://pan.baidu.com/s/1HB7Wzdsm7lXvkZyDt-jEcw)
--  提取码：xdkz
